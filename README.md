@@ -9,6 +9,7 @@
 
   After executing our code, we can clearly see that the top performers for “2018” fiscal year were ENPH and RUN. Our code runs through the raw data of 2018 adding up all daily volume per ticker and subtracting price from the price to get the yearly return. See picture below:
   Resources1/VBA_Challenge_20181.png
+  https://github.com/SamuelHardingIV/VBA_Challenge_Assignment2/blob/78943b4551f9867e88ae8f2ef9d7beb916f0e406/Resources1/VBA_Challenge_20181.png
   
 ## Summary ##
 ### Disadvantages & Advantages ##
